@@ -2,7 +2,7 @@
 ## Saksham Rohilla
 Led Zeppelin's self-titled debut album is a seismic event in the annals of rock history, a thunderous proclamation that heralded the arrival of a band destined for greatness. Released in 1969, this iconic record not only laid the foundation for Led Zeppelin's legendary career but also reshaped the landscape of rock music forever.
 
-![cover](https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png)
+![cover](https://upload.wikimedia.org/wikipedia/commons/4/49/LedZeppelinmontage.jpg)
 
 From the moment the needle hits the groove, Led Zeppelin's debut album announces its presence with unbridled ferocity. The opening track, "Good Times Bad Times," immediately showcases the band's virtuosity, with John Bonham's thunderous drumming, Jimmy Page's electrifying guitar riffs, John Paul Jones's pulsating basslines, and Robert Plant's soaring vocals coalescing into a sonic tsunami that sweeps listeners off their feet.
 
