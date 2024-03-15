@@ -1,4 +1,5 @@
-# This is an exercise 
+# This is my first Github repository
+Not true....actually!
 
 This is an exercise for the 2024 IPGP git class.
 
